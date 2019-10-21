@@ -1,6 +1,7 @@
 # FitMLModel
 This project contains the retrained model and a model trained from scratch
 
+
 ## Getting started
 - data folder contains all non python files (like logs, models, images, ...)
 - util folder contains the utils to download youtube videos and convert models to TFLite
